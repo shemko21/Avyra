@@ -1,5 +1,5 @@
 # Avyra
-verview
+Overview
 An autonomous ground-based robot designed to detect and fill potholes on roads using computer vision. It operates without human control by scanning surfaces, identifying damage, and performing targeted filling to restore road continuity.
 
 Working
