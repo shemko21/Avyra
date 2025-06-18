@@ -1,3 +1,11 @@
+
+Group Members and roles:
+
+Dickson Mbogo - Program Developer
+Elisha Jilo - Electrical Systems Developer
+Shem Koech - Mechanical Designer
+
+
 # Avyra
 Overview
 An autonomous ground-based robot designed to detect and fill potholes on roads using computer vision. It operates without human control by scanning surfaces, identifying damage, and performing targeted filling to restore road continuity.
