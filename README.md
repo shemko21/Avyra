@@ -1,9 +1,9 @@
 
 Group Members and roles:
 
-Dickson Mbogo - Program Developer
-Elisha Jilo - Electrical Systems Developer
-Shem Koech - Mechanical Designer
+1. Dickson Mbogo - Program Developer
+2. Elisha Jilo - Electrical Systems Developer
+3. Shem Koech - Mechanical Designer
 
 
 # Avyra
