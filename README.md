@@ -36,4 +36,5 @@ The robot continues scanning and filling as it advances along the designated pat
 
 
 Links:
-Trello; 
+
+Trello; https://trello.com/invite/b/684c2e9c0d75d9e9e22d4f1d/ATTI38f34ac70b7f9576e7ea711928b1238bC5E521BC/design-of-pothole-filling-robot-using-computer-vision 
